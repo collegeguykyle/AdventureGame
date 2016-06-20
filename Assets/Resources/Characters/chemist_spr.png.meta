@@ -1,0 +1,1173 @@
+fileFormatVersion: 2
+guid: 3e47e1140f7a7fd488d08dcb27532fe7
+timeCreated: 1459922471
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chemist_spr_0
+    21300002: chemist_spr_1
+    21300004: chemist_spr_2
+    21300006: chemist_spr_3
+    21300008: chemist_spr_4
+    21300010: chemist_spr_5
+    21300012: chemist_spr_6
+    21300014: chemist_spr_7
+    21300016: chemist_spr_8
+    21300018: chemist_spr_9
+    21300020: chemist_spr_10
+    21300022: chemist_spr_11
+    21300024: chemist_spr_12
+    21300026: chemist_spr_13
+    21300028: chemist_spr_14
+    21300030: chemist_spr_15
+    21300032: chemist_spr_16
+    21300034: chemist_spr_17
+    21300036: chemist_spr_18
+    21300038: chemist_spr_19
+    21300040: chemist_spr_20
+    21300042: chemist_spr_21
+    21300044: chemist_spr_22
+    21300046: chemist_spr_23
+    21300048: chemist_spr_24
+    21300050: chemist_spr_25
+    21300052: chemist_spr_26
+    21300054: chemist_spr_27
+    21300056: chemist_spr_28
+    21300058: chemist_spr_29
+    21300060: chemist_spr_30
+    21300062: chemist_spr_31
+    21300064: chemist_spr_32
+    21300066: chemist_spr_33
+    21300068: chemist_spr_34
+    21300070: chemist_spr_35
+    21300072: chemist_spr_36
+    21300074: chemist_spr_37
+    21300076: chemist_spr_38
+    21300078: chemist_spr_39
+    21300080: chemist_spr_40
+    21300082: chemist_spr_41
+    21300084: chemist_spr_42
+    21300086: chemist_spr_43
+    21300088: chemist_spr_44
+    21300090: chemist_spr_45
+    21300092: chemist_spr_46
+    21300094: chemist_spr_47
+    21300096: chemist_spr_48
+    21300098: chemist_spr_49
+    21300100: chemist_spr_50
+    21300102: chemist_spr_51
+    21300104: chemist_spr_52
+    21300106: chemist_spr_53
+    21300108: chemist_spr_54
+    21300110: chemist_spr_55
+    21300112: chemist_spr_56
+    21300114: chemist_spr_57
+    21300116: chemist_spr_58
+    21300118: chemist_spr_59
+    21300120: chemist_spr_60
+    21300122: chemist_spr_61
+    21300124: chemist_spr_62
+    21300126: chemist_spr_63
+    21300128: chemist_spr_64
+    21300130: chemist_spr_65
+    21300132: chemist_spr_66
+    21300134: chemist_spr_67
+    21300136: chemist_spr_68
+    21300138: chemist_spr_69
+    21300140: chemist_spr_70
+    21300142: chemist_spr_71
+    21300144: chemist_spr_72
+    21300146: chemist_spr_73
+    21300148: chemist_spr_74
+    21300150: chemist_spr_75
+    21300152: chemist_spr_76
+    21300154: chemist_spr_77
+    21300156: chemist_spr_78
+    21300158: chemist_spr_79
+    21300160: chemist_spr_80
+    21300162: chemist_spr_81
+    21300164: chemist_spr_82
+    21300166: chemist_spr_83
+    21300168: chemist_spr_84
+    21300170: chemist_spr_85
+    21300172: chemist_spr_86
+    21300174: chemist_spr_87
+    21300176: chemist_spr_88
+    21300178: chemist_spr_89
+    21300180: chemist_spr_90
+    21300182: chemist_spr_91
+    21300184: chemist_spr_92
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 35
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: chemist_spr_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 252
+        width: 17
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 252
+        width: 20
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 252
+        width: 23
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 253
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 253
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 255
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 254
+        width: 21
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 267
+        width: 15
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 252
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 212
+        width: 19
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 212
+        width: 17
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 212
+        width: 17
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 215
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 214
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 213
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 213
+        width: 17
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_16
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 235
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_17
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 217
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 173
+        width: 16
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 194
+        width: 4
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_20
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 194
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 196
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 195
+        width: 7
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 197
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 194
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 195
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 194
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_27
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 197
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 172
+        width: 7
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 170
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 175
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_31
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 169
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 172
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_33
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 170
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_34
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 172
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_35
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 171
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_36
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 172
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 149
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_39
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 149
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 148
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_41
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 149
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 144
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_43
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 145
+        width: 7
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_44
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 147
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_45
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 149
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_46
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 145
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_48
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 123
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 115
+        width: 23
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_50
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 132
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 116
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_52
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 118
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_53
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 112
+        width: 28
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 111
+        width: 26
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_55
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 123
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_56
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 108
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_57
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 99
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_59
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 93
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_60
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 93
+        width: 19
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_61
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 93
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_62
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 75
+        width: 22
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_63
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 91
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_64
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 93
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_65
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 87
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_66
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 76
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_67
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 76
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_68
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 76
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_69
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 77
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_70
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 78
+        width: 20
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_72
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 60
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_73
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 60
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_74
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 60
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_75
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 60
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_76
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 44
+        width: 22
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_77
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 44
+        width: 19
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_78
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 63
+        width: 19
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_79
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 44
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_80
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_81
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 44
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_82
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 44
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_83
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 32
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 22
+        width: 15
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_85
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 18
+        width: 13
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_86
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 22
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_87
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 20
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_88
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 21
+        width: 19
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_89
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 29
+        width: 15
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_90
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_91
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 4
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chemist_spr_92
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 13
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

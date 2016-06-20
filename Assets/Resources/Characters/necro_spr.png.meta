@@ -1,0 +1,1173 @@
+fileFormatVersion: 2
+guid: 0a3bf429710a5f0468105fc0c414da04
+timeCreated: 1459922536
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: necro_spr_0
+    21300002: necro_spr_1
+    21300004: necro_spr_2
+    21300006: necro_spr_3
+    21300008: necro_spr_4
+    21300010: necro_spr_5
+    21300012: necro_spr_6
+    21300014: necro_spr_7
+    21300016: necro_spr_8
+    21300018: necro_spr_9
+    21300020: necro_spr_10
+    21300022: necro_spr_11
+    21300024: necro_spr_12
+    21300026: necro_spr_13
+    21300028: necro_spr_14
+    21300030: necro_spr_15
+    21300032: necro_spr_16
+    21300034: necro_spr_17
+    21300036: necro_spr_18
+    21300038: necro_spr_19
+    21300040: necro_spr_20
+    21300042: necro_spr_21
+    21300044: necro_spr_22
+    21300046: necro_spr_23
+    21300048: necro_spr_24
+    21300050: necro_spr_25
+    21300052: necro_spr_26
+    21300054: necro_spr_27
+    21300056: necro_spr_28
+    21300058: necro_spr_29
+    21300060: necro_spr_30
+    21300062: necro_spr_31
+    21300064: necro_spr_32
+    21300066: necro_spr_33
+    21300068: necro_spr_34
+    21300070: necro_spr_35
+    21300072: necro_spr_36
+    21300074: necro_spr_37
+    21300076: necro_spr_38
+    21300078: necro_spr_39
+    21300080: necro_spr_40
+    21300082: necro_spr_41
+    21300084: necro_spr_42
+    21300086: necro_spr_43
+    21300088: necro_spr_44
+    21300090: necro_spr_45
+    21300092: necro_spr_46
+    21300094: necro_spr_47
+    21300096: necro_spr_48
+    21300098: necro_spr_49
+    21300100: necro_spr_50
+    21300102: necro_spr_51
+    21300104: necro_spr_52
+    21300106: necro_spr_53
+    21300108: necro_spr_54
+    21300110: necro_spr_55
+    21300112: necro_spr_56
+    21300114: necro_spr_57
+    21300116: necro_spr_58
+    21300118: necro_spr_59
+    21300120: necro_spr_60
+    21300122: necro_spr_61
+    21300124: necro_spr_62
+    21300126: necro_spr_63
+    21300128: necro_spr_64
+    21300130: necro_spr_65
+    21300132: necro_spr_66
+    21300134: necro_spr_67
+    21300136: necro_spr_68
+    21300138: necro_spr_69
+    21300140: necro_spr_70
+    21300142: necro_spr_71
+    21300144: necro_spr_72
+    21300146: necro_spr_73
+    21300148: necro_spr_74
+    21300150: necro_spr_75
+    21300152: necro_spr_76
+    21300154: necro_spr_77
+    21300156: necro_spr_78
+    21300158: necro_spr_79
+    21300160: necro_spr_80
+    21300162: necro_spr_81
+    21300164: necro_spr_82
+    21300166: necro_spr_83
+    21300168: necro_spr_84
+    21300170: necro_spr_85
+    21300172: necro_spr_86
+    21300174: necro_spr_87
+    21300176: necro_spr_88
+    21300178: necro_spr_89
+    21300180: necro_spr_90
+    21300182: necro_spr_91
+    21300184: necro_spr_92
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 35
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: necro_spr_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 253
+        width: 21
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 252
+        width: 22
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 253
+        width: 21
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 252
+        width: 21
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 252
+        width: 21
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 254
+        width: 22
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 254
+        width: 22
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 268
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 252
+        width: 21
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 212
+        width: 22
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 212
+        width: 21
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 213
+        width: 21
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 213
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 212
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 212
+        width: 21
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 212
+        width: 21
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 236
+        width: 21
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 218
+        width: 5
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 173
+        width: 21
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 196
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_20
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 193
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 195
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_22
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 193
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 194
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_24
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 193
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 194
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 193
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 195
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 170
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 167
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 168
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_31
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 168
+        width: 13
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 166
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 167
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_34
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 166
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_35
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 166
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_36
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 171
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 28
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 147
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 147
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_40
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 143
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_41
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 145
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_42
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 140
+        width: 10
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_43
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 140
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_44
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 143
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_45
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 141
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_46
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 140
+        width: 12
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 28
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_48
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 110
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_49
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 118
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_50
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 124
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 116
+        width: 28
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_52
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 113
+        width: 34
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_53
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 110
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_54
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 124
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_55
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 108
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_56
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 100
+        width: 23
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 76
+        width: 27
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_58
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 92
+        width: 19
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_59
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 92
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_60
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 92
+        width: 21
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_61
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 76
+        width: 24
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_62
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 92
+        width: 19
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_63
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 93
+        width: 21
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 90
+        width: 22
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_65
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 78
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_66
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 78
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_67
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 78
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_68
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 76
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_69
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 76
+        width: 21
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_70
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 63
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 27
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_72
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 62
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_73
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 62
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_74
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 60
+        width: 19
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_75
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 60
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_76
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 44
+        width: 25
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_77
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 44
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_78
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_79
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_80
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 44
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_81
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 44
+        width: 19
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_82
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 44
+        width: 21
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_83
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 16
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_84
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 15
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_85
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 20
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_86
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 20
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_87
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 28
+        width: 19
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_88
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 26
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_89
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 17
+        width: 21
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_90
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 4
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_91
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 12
+        width: 19
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: necro_spr_92
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 4
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

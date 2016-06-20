@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: f27d2677240b6054daab3c57d73a562a
+timeCreated: 1459922570
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rookie_spr_0
+    21300002: rookie_spr_1
+    21300004: rookie_spr_2
+    21300006: rookie_spr_3
+    21300008: rookie_spr_4
+    21300010: rookie_spr_5
+    21300012: rookie_spr_6
+    21300014: rookie_spr_7
+    21300016: rookie_spr_8
+    21300018: rookie_spr_9
+    21300020: rookie_spr_10
+    21300022: rookie_spr_11
+    21300024: rookie_spr_12
+    21300026: rookie_spr_13
+    21300028: rookie_spr_14
+    21300030: rookie_spr_15
+    21300032: rookie_spr_16
+    21300034: rookie_spr_17
+    21300036: rookie_spr_18
+    21300038: rookie_spr_19
+    21300040: rookie_spr_20
+    21300042: rookie_spr_21
+    21300044: rookie_spr_22
+    21300046: rookie_spr_23
+    21300048: rookie_spr_24
+    21300050: rookie_spr_25
+    21300052: rookie_spr_26
+    21300054: rookie_spr_27
+    21300056: rookie_spr_28
+    21300058: rookie_spr_29
+    21300060: rookie_spr_30
+    21300062: rookie_spr_31
+    21300064: rookie_spr_32
+    21300066: rookie_spr_33
+    21300068: rookie_spr_34
+    21300070: rookie_spr_35
+    21300072: rookie_spr_36
+    21300074: rookie_spr_37
+    21300076: rookie_spr_38
+    21300078: rookie_spr_39
+    21300080: rookie_spr_40
+    21300082: rookie_spr_41
+    21300084: rookie_spr_42
+    21300086: rookie_spr_43
+    21300088: rookie_spr_44
+    21300090: rookie_spr_45
+    21300092: rookie_spr_46
+    21300094: rookie_spr_47
+    21300096: rookie_spr_48
+    21300098: rookie_spr_49
+    21300100: rookie_spr_50
+    21300102: rookie_spr_51
+    21300104: rookie_spr_52
+    21300106: rookie_spr_53
+    21300108: rookie_spr_54
+    21300110: rookie_spr_55
+    21300112: rookie_spr_56
+    21300114: rookie_spr_57
+    21300116: rookie_spr_58
+    21300118: rookie_spr_59
+    21300120: rookie_spr_60
+    21300122: rookie_spr_61
+    21300124: rookie_spr_62
+    21300126: rookie_spr_63
+    21300128: rookie_spr_64
+    21300130: rookie_spr_65
+    21300132: rookie_spr_66
+    21300134: rookie_spr_67
+    21300136: rookie_spr_68
+    21300138: rookie_spr_69
+    21300140: rookie_spr_70
+    21300142: rookie_spr_71
+    21300144: rookie_spr_72
+    21300146: rookie_spr_73
+    21300148: rookie_spr_74
+    21300150: rookie_spr_75
+    21300152: rookie_spr_76
+    21300154: rookie_spr_77
+    21300156: rookie_spr_78
+    21300158: rookie_spr_79
+    21300160: rookie_spr_80
+    21300162: rookie_spr_81
+    21300164: rookie_spr_82
+    21300166: rookie_spr_83
+    21300168: rookie_spr_84
+    21300170: rookie_spr_85
+    21300172: rookie_spr_86
+    21300174: rookie_spr_87
+    21300176: rookie_spr_88
+    21300178: rookie_spr_89
+    21300180: rookie_spr_90
+    21300182: rookie_spr_91
+    21300184: rookie_spr_92
+    21300186: rookie_spr_93
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 35
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rookie_spr_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 253
+        width: 11
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 251
+        width: 18
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 252
+        width: 21
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 253
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 253
+        width: 21
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 255
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 254
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 267
+        width: 13
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 252
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 212
+        width: 14
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 212
+        width: 12
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 211
+        width: 13
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 215
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 214
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 213
+        width: 14
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 213
+        width: 11
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_16
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 235
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 219
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 174
+        width: 11
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 194
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 198
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 194
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 195
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 196
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_24
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 194
+        width: 7
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 195
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 194
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_27
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 197
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_28
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 172
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 169
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 176
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 169
+        width: 6
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_32
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 173
+        width: 5
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 169
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_34
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 172
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_35
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 173
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_36
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 172
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 151
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 149
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_40
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 150
+        width: 13
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 151
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 149
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_43
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 147
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_44
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 149
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_45
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 149
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_46
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 147
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_48
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 124
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_49
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 115
+        width: 25
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 133
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_51
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 118
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_52
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 120
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 111
+        width: 30
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_54
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 110
+        width: 29
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 123
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_56
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 109
+        width: 18
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_57
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 99
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_58
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 80
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_59
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 94
+        width: 21
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_60
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 92
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_61
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 94
+        width: 21
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_62
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 92
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_63
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 94
+        width: 20
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_64
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 87
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_65
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 78
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_66
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 78
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_67
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 78
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_68
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 76
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_69
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 77
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_70
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 79
+        width: 17
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 48
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_72
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 62
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_73
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 62
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_74
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 62
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_75
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 59
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_76
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 43
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_77
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 44
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_78
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 65
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_79
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 46
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_80
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 46
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_81
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 46
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_82
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 46
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_83
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 43
+        width: 11
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_84
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 20
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_85
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 22
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_86
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 22
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_87
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 29
+        width: 14
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_88
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 28
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_89
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 19
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 21
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_91
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 14
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_92
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 6
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rookie_spr_93
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 6
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

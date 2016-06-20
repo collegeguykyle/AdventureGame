@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 1365888b30f0f9b4694e214babe65088
+timeCreated: 1459922593
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: thief_spr_0
+    21300002: thief_spr_1
+    21300004: thief_spr_2
+    21300006: thief_spr_3
+    21300008: thief_spr_4
+    21300010: thief_spr_5
+    21300012: thief_spr_6
+    21300014: thief_spr_7
+    21300016: thief_spr_8
+    21300018: thief_spr_9
+    21300020: thief_spr_10
+    21300022: thief_spr_11
+    21300024: thief_spr_12
+    21300026: thief_spr_13
+    21300028: thief_spr_14
+    21300030: thief_spr_15
+    21300032: thief_spr_16
+    21300034: thief_spr_17
+    21300036: thief_spr_18
+    21300038: thief_spr_19
+    21300040: thief_spr_20
+    21300042: thief_spr_21
+    21300044: thief_spr_22
+    21300046: thief_spr_23
+    21300048: thief_spr_24
+    21300050: thief_spr_25
+    21300052: thief_spr_26
+    21300054: thief_spr_27
+    21300056: thief_spr_28
+    21300058: thief_spr_29
+    21300060: thief_spr_30
+    21300062: thief_spr_31
+    21300064: thief_spr_32
+    21300066: thief_spr_33
+    21300068: thief_spr_34
+    21300070: thief_spr_35
+    21300072: thief_spr_36
+    21300074: thief_spr_37
+    21300076: thief_spr_38
+    21300078: thief_spr_39
+    21300080: thief_spr_40
+    21300082: thief_spr_41
+    21300084: thief_spr_42
+    21300086: thief_spr_43
+    21300088: thief_spr_44
+    21300090: thief_spr_45
+    21300092: thief_spr_46
+    21300094: thief_spr_47
+    21300096: thief_spr_48
+    21300098: thief_spr_49
+    21300100: thief_spr_50
+    21300102: thief_spr_51
+    21300104: thief_spr_52
+    21300106: thief_spr_53
+    21300108: thief_spr_54
+    21300110: thief_spr_55
+    21300112: thief_spr_56
+    21300114: thief_spr_57
+    21300116: thief_spr_58
+    21300118: thief_spr_59
+    21300120: thief_spr_60
+    21300122: thief_spr_61
+    21300124: thief_spr_62
+    21300126: thief_spr_63
+    21300128: thief_spr_64
+    21300130: thief_spr_65
+    21300132: thief_spr_66
+    21300134: thief_spr_67
+    21300136: thief_spr_68
+    21300138: thief_spr_69
+    21300140: thief_spr_70
+    21300142: thief_spr_71
+    21300144: thief_spr_72
+    21300146: thief_spr_73
+    21300148: thief_spr_74
+    21300150: thief_spr_75
+    21300152: thief_spr_76
+    21300154: thief_spr_77
+    21300156: thief_spr_78
+    21300158: thief_spr_79
+    21300160: thief_spr_80
+    21300162: thief_spr_81
+    21300164: thief_spr_82
+    21300166: thief_spr_83
+    21300168: thief_spr_84
+    21300170: thief_spr_85
+    21300172: thief_spr_86
+    21300174: thief_spr_87
+    21300176: thief_spr_88
+    21300178: thief_spr_89
+    21300180: thief_spr_90
+    21300182: thief_spr_91
+    21300184: thief_spr_92
+    21300186: thief_spr_93
+    21300188: thief_spr_94
+    21300190: thief_spr_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 35
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: thief_spr_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 251
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 250
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 251
+        width: 21
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 251
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 252
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 253
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 252
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 265
+        width: 17
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_8
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 249
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 210
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 210
+        width: 18
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 211
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 214
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 212
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 211
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 211
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_16
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 233
+        width: 18
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 217
+        width: 6
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 171
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 194
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 194
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 194
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 192
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 194
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_24
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 192
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 193
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 193
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_27
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 194
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_28
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 171
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 168
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 171
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_31
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 167
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 169
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 167
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_34
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 170
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 169
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_36
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 170
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_37
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 142
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 148
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_39
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 146
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_40
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 148
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 147
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 147
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_43
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 143
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_44
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 146
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_45
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 147
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_46
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 145
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 110
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_48
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 121
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_49
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 113
+        width: 27
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 131
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_51
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 116
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_52
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 117
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 109
+        width: 31
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 109
+        width: 31
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 121
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_56
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 106
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_57
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 97
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_58
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 78
+        width: 19
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_59
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 91
+        width: 21
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_60
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 87
+        width: 23
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 92
+        width: 19
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_62
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 90
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_63
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 90
+        width: 22
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_64
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 87
+        width: 19
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_65
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 76
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_66
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 76
+        width: 13
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_67
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 76
+        width: 19
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_68
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 73
+        width: 26
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_69
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 74
+        width: 11
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_70
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 77
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_71
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 46
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_72
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 60
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_73
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 67
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_74
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 60
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_75
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 65
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_76
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 61
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_77
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 55
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_78
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 41
+        width: 23
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_79
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 41
+        width: 22
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_80
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 63
+        width: 19
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_81
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 45
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_82
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_83
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 13
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_84
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 44
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_85
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 41
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_86
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 20
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_87
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 20
+        width: 13
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_88
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 27
+        width: 14
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_89
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 28
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_90
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 17
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_91
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 19
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_92
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 17
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_93
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 12
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_94
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 4
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: thief_spr_95
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 5
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: 11b6e29b227820e42aac5082f2b9155f
+timeCreated: 1459922524
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hunter_spr_0
+    21300002: hunter_spr_1
+    21300004: hunter_spr_2
+    21300006: hunter_spr_3
+    21300008: hunter_spr_4
+    21300010: hunter_spr_5
+    21300012: hunter_spr_6
+    21300014: hunter_spr_7
+    21300016: hunter_spr_8
+    21300018: hunter_spr_9
+    21300020: hunter_spr_10
+    21300022: hunter_spr_11
+    21300024: hunter_spr_12
+    21300026: hunter_spr_13
+    21300028: hunter_spr_14
+    21300030: hunter_spr_15
+    21300032: hunter_spr_16
+    21300034: hunter_spr_17
+    21300036: hunter_spr_18
+    21300038: hunter_spr_19
+    21300040: hunter_spr_20
+    21300042: hunter_spr_21
+    21300044: hunter_spr_22
+    21300046: hunter_spr_23
+    21300048: hunter_spr_24
+    21300050: hunter_spr_25
+    21300052: hunter_spr_26
+    21300054: hunter_spr_27
+    21300056: hunter_spr_28
+    21300058: hunter_spr_29
+    21300060: hunter_spr_30
+    21300062: hunter_spr_31
+    21300064: hunter_spr_32
+    21300066: hunter_spr_33
+    21300068: hunter_spr_34
+    21300070: hunter_spr_35
+    21300072: hunter_spr_36
+    21300074: hunter_spr_37
+    21300076: hunter_spr_38
+    21300078: hunter_spr_39
+    21300080: hunter_spr_40
+    21300082: hunter_spr_41
+    21300084: hunter_spr_42
+    21300086: hunter_spr_43
+    21300088: hunter_spr_44
+    21300090: hunter_spr_45
+    21300092: hunter_spr_46
+    21300094: hunter_spr_47
+    21300096: hunter_spr_48
+    21300098: hunter_spr_49
+    21300100: hunter_spr_50
+    21300102: hunter_spr_51
+    21300104: hunter_spr_52
+    21300106: hunter_spr_53
+    21300108: hunter_spr_54
+    21300110: hunter_spr_55
+    21300112: hunter_spr_56
+    21300114: hunter_spr_57
+    21300116: hunter_spr_58
+    21300118: hunter_spr_59
+    21300120: hunter_spr_60
+    21300122: hunter_spr_61
+    21300124: hunter_spr_62
+    21300126: hunter_spr_63
+    21300128: hunter_spr_64
+    21300130: hunter_spr_65
+    21300132: hunter_spr_66
+    21300134: hunter_spr_67
+    21300136: hunter_spr_68
+    21300138: hunter_spr_69
+    21300140: hunter_spr_70
+    21300142: hunter_spr_71
+    21300144: hunter_spr_72
+    21300146: hunter_spr_73
+    21300148: hunter_spr_74
+    21300150: hunter_spr_75
+    21300152: hunter_spr_76
+    21300154: hunter_spr_77
+    21300156: hunter_spr_78
+    21300158: hunter_spr_79
+    21300160: hunter_spr_80
+    21300162: hunter_spr_81
+    21300164: hunter_spr_82
+    21300166: hunter_spr_83
+    21300168: hunter_spr_84
+    21300170: hunter_spr_85
+    21300172: hunter_spr_86
+    21300174: hunter_spr_87
+    21300176: hunter_spr_88
+    21300178: hunter_spr_89
+    21300180: hunter_spr_90
+    21300182: hunter_spr_91
+    21300184: hunter_spr_92
+    21300186: hunter_spr_93
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 35
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hunter_spr_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 252
+        width: 14
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 251
+        width: 19
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 253
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 252
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 253
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 255
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 254
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 267
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 251
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 212
+        width: 16
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 212
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 212
+        width: 14
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 216
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 214
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_14
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 212
+        width: 14
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 212
+        width: 14
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 235
+        width: 13
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_17
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 219
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 173
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 197
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_20
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 194
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 196
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 194
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_23
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 197
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 194
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_25
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 195
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 195
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 196
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 172
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_29
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 169
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_30
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 175
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_31
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 169
+        width: 15
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 172
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 170
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_34
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 172
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 171
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_36
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 172
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 144
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_38
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 147
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_39
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 146
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_40
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 151
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 148
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 145
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_43
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 142
+        width: 9
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_44
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 143
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_45
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 148
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_46
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 140
+        width: 13
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_48
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 124
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_49
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 115
+        width: 26
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_50
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 132
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_51
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 115
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 116
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 110
+        width: 31
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 111
+        width: 32
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_55
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 123
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_56
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 108
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_57
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 99
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 79
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_59
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 94
+        width: 19
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_60
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 92
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_61
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 93
+        width: 19
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_62
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 91
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_63
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 93
+        width: 21
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_64
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 89
+        width: 20
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_65
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 78
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_66
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 78
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_67
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 78
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_68
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 75
+        width: 24
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_69
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 77
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_70
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 77
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_71
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 47
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_72
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 62
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_73
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 62
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_74
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 62
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_75
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 59
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_76
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 44
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_77
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 43
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_78
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 62
+        width: 19
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_79
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 46
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_80
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 45
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_81
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 46
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_82
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 46
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_83
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 43
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_84
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 18
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_85
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 19
+        width: 21
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_86
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 19
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_87
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 23
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_88
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 22
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_89
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 28
+        width: 15
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_90
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 28
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_91
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 5
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_92
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 6
+        width: 15
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hunter_spr_93
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 15
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

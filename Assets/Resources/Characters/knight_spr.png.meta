@@ -1,0 +1,1279 @@
+fileFormatVersion: 2
+guid: 04ae7146bea924f468fa06184f9fb80e
+timeCreated: 1459922711
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1290_0
+    21300002: 1290_1
+    21300004: 1290_2
+    21300006: 1290_3
+    21300008: 1290_4
+    21300010: 1290_5
+    21300012: 1290_6
+    21300014: 1290_7
+    21300016: 1290_8
+    21300018: 1290_9
+    21300020: 1290_10
+    21300022: 1290_11
+    21300024: 1290_12
+    21300026: 1290_13
+    21300028: 1290_14
+    21300030: 1290_15
+    21300032: 1290_16
+    21300034: 1290_17
+    21300036: 1290_18
+    21300038: 1290_19
+    21300040: 1290_20
+    21300042: 1290_21
+    21300044: 1290_22
+    21300046: 1290_23
+    21300048: 1290_24
+    21300050: 1290_25
+    21300052: 1290_26
+    21300054: 1290_27
+    21300056: 1290_28
+    21300058: 1290_29
+    21300060: 1290_30
+    21300062: 1290_31
+    21300064: 1290_32
+    21300066: 1290_33
+    21300068: 1290_34
+    21300070: 1290_35
+    21300072: 1290_36
+    21300074: 1290_37
+    21300076: 1290_38
+    21300078: 1290_39
+    21300080: 1290_40
+    21300082: 1290_41
+    21300084: 1290_42
+    21300086: 1290_43
+    21300088: 1290_44
+    21300090: 1290_45
+    21300092: 1290_46
+    21300094: 1290_47
+    21300096: 1290_48
+    21300098: 1290_49
+    21300100: 1290_50
+    21300102: 1290_51
+    21300104: 1290_52
+    21300106: 1290_53
+    21300108: 1290_54
+    21300110: 1290_55
+    21300112: 1290_56
+    21300114: 1290_57
+    21300116: 1290_58
+    21300118: 1290_59
+    21300120: 1290_60
+    21300122: 1290_61
+    21300124: 1290_62
+    21300126: 1290_63
+    21300128: 1290_64
+    21300130: 1290_65
+    21300132: 1290_66
+    21300134: 1290_67
+    21300136: 1290_68
+    21300138: 1290_69
+    21300140: 1290_70
+    21300142: 1290_71
+    21300144: 1290_72
+    21300146: 1290_73
+    21300148: 1290_74
+    21300150: 1290_75
+    21300152: 1290_76
+    21300154: 1290_77
+    21300156: 1290_78
+    21300158: 1290_79
+    21300160: 1290_80
+    21300162: 1290_81
+    21300164: 1290_82
+    21300166: 1290_83
+    21300168: 1290_84
+    21300170: 1290_85
+    21300172: 1290_86
+    21300174: 1290_87
+    21300176: 1290_88
+    21300178: 1290_89
+    21300180: 1290_90
+    21300182: 1290_91
+    21300184: 1290_92
+    21300186: 1290_93
+    21300188: knight_spr_0
+    21300190: knight_spr_1
+    21300192: knight_spr_2
+    21300194: knight_spr_3
+    21300196: knight_spr_4
+    21300198: knight_spr_5
+    21300200: knight_spr_6
+    21300202: knight_spr_7
+    21300204: knight_spr_8
+    21300206: knight_spr_9
+    21300208: knight_spr_10
+    21300210: knight_spr_11
+    21300212: knight_spr_12
+    21300214: knight_spr_13
+    21300216: knight_spr_14
+    21300218: knight_spr_15
+    21300220: knight_spr_16
+    21300222: knight_spr_17
+    21300224: knight_spr_18
+    21300226: knight_spr_19
+    21300228: knight_spr_20
+    21300230: knight_spr_21
+    21300232: knight_spr_22
+    21300234: knight_spr_23
+    21300236: knight_spr_24
+    21300238: knight_spr_25
+    21300240: knight_spr_26
+    21300242: knight_spr_27
+    21300244: knight_spr_28
+    21300246: knight_spr_29
+    21300248: knight_spr_30
+    21300250: knight_spr_31
+    21300252: knight_spr_32
+    21300254: knight_spr_33
+    21300256: knight_spr_34
+    21300258: knight_spr_35
+    21300260: knight_spr_36
+    21300262: knight_spr_37
+    21300264: knight_spr_38
+    21300266: knight_spr_39
+    21300268: knight_spr_40
+    21300270: knight_spr_41
+    21300272: knight_spr_42
+    21300274: knight_spr_43
+    21300276: knight_spr_44
+    21300278: knight_spr_45
+    21300280: knight_spr_46
+    21300282: knight_spr_47
+    21300284: knight_spr_48
+    21300286: knight_spr_49
+    21300288: knight_spr_50
+    21300290: knight_spr_51
+    21300292: knight_spr_52
+    21300294: knight_spr_53
+    21300296: knight_spr_54
+    21300298: knight_spr_55
+    21300300: knight_spr_56
+    21300302: knight_spr_57
+    21300304: knight_spr_58
+    21300306: knight_spr_59
+    21300308: knight_spr_60
+    21300310: knight_spr_61
+    21300312: knight_spr_62
+    21300314: knight_spr_63
+    21300316: knight_spr_64
+    21300318: knight_spr_65
+    21300320: knight_spr_66
+    21300322: knight_spr_67
+    21300324: knight_spr_68
+    21300326: knight_spr_69
+    21300328: knight_spr_70
+    21300330: knight_spr_71
+    21300332: knight_spr_72
+    21300334: knight_spr_73
+    21300336: knight_spr_74
+    21300338: knight_spr_75
+    21300340: knight_spr_76
+    21300342: knight_spr_77
+    21300344: knight_spr_78
+    21300346: knight_spr_79
+    21300348: knight_spr_80
+    21300350: knight_spr_81
+    21300352: knight_spr_82
+    21300354: knight_spr_83
+    21300356: knight_spr_84
+    21300358: knight_spr_85
+    21300360: knight_spr_86
+    21300362: knight_spr_87
+    21300364: knight_spr_88
+    21300366: knight_spr_89
+    21300368: knight_spr_90
+    21300370: knight_spr_91
+    21300372: knight_spr_92
+    21300374: knight_spr_93
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 35
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: knight_spr_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 258
+        width: 19
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 256
+        width: 23
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 257
+        width: 23
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 257
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 256
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 259
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 259
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 272
+        width: 13
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_8
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 256
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 217
+        width: 21
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 217
+        width: 20
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 216
+        width: 21
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 219
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 218
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 217
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 218
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 240
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 224
+        width: 6
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 177
+        width: 22
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 200
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 204
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 200
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 201
+        width: 7
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 201
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 199
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 201
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_26
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 201
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 200
+        width: 10
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_28
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 178
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 175
+        width: 7
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_30
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 179
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_31
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 174
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 178
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 174
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_34
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 177
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_35
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 176
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_36
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 179
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 148
+        width: 25
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_38
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 154
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 155
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_40
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 155
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 155
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_42
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 152
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_43
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 151
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_44
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 153
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_45
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 154
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_46
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 151
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 116
+        width: 25
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_48
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 130
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_49
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 120
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_50
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 115
+        width: 31
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_51
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 137
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 124
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_53
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 123
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_54
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 115
+        width: 32
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_55
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 128
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_56
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 114
+        width: 21
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_57
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 105
+        width: 22
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 84
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_59
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 98
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_60
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 97
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_61
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 98
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_62
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 80
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_63
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 96
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 100
+        width: 19
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_65
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 93
+        width: 22
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_66
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 83
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_67
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 83
+        width: 15
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_68
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 83
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_69
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 80
+        width: 19
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_70
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 81
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_71
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 71
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 52
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_73
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 67
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_74
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 67
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_75
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 66
+        width: 19
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_76
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 64
+        width: 21
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_77
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 49
+        width: 23
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_78
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 48
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_79
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 49
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_80
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 50
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_81
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 49
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_82
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 50
+        width: 19
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_83
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 48
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_84
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 26
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_85
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 23
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_86
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 24
+        width: 22
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_87
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 25
+        width: 13
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_88
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 33
+        width: 23
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_89
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 31
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_90
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 24
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_91
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 20
+        width: 23
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_92
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 10
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: knight_spr_93
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 9
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

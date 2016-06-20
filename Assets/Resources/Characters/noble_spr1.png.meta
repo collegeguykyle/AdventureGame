@@ -1,0 +1,1201 @@
+fileFormatVersion: 2
+guid: 6051b7ebdb905ab4e8cf05d4cdbe0351
+timeCreated: 1459922547
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: noble_spr1_0
+    21300002: noble_spr1_1
+    21300004: noble_spr1_2
+    21300006: noble_spr1_3
+    21300008: noble_spr1_4
+    21300010: noble_spr1_5
+    21300012: noble_spr1_6
+    21300014: noble_spr1_7
+    21300016: noble_spr1_8
+    21300018: noble_spr1_9
+    21300020: noble_spr1_10
+    21300022: noble_spr1_11
+    21300024: noble_spr1_12
+    21300026: noble_spr1_13
+    21300028: noble_spr1_14
+    21300030: noble_spr1_15
+    21300032: noble_spr1_16
+    21300034: noble_spr1_17
+    21300036: noble_spr1_18
+    21300038: noble_spr1_19
+    21300040: noble_spr1_20
+    21300042: noble_spr1_21
+    21300044: noble_spr1_22
+    21300046: noble_spr1_23
+    21300048: noble_spr1_24
+    21300050: noble_spr1_25
+    21300052: noble_spr1_26
+    21300054: noble_spr1_27
+    21300056: noble_spr1_28
+    21300058: noble_spr1_29
+    21300060: noble_spr1_30
+    21300062: noble_spr1_31
+    21300064: noble_spr1_32
+    21300066: noble_spr1_33
+    21300068: noble_spr1_34
+    21300070: noble_spr1_35
+    21300072: noble_spr1_36
+    21300074: noble_spr1_37
+    21300076: noble_spr1_38
+    21300078: noble_spr1_39
+    21300080: noble_spr1_40
+    21300082: noble_spr1_41
+    21300084: noble_spr1_42
+    21300086: noble_spr1_43
+    21300088: noble_spr1_44
+    21300090: noble_spr1_45
+    21300092: noble_spr1_46
+    21300094: noble_spr1_47
+    21300096: noble_spr1_48
+    21300098: noble_spr1_49
+    21300100: noble_spr1_50
+    21300102: noble_spr1_51
+    21300104: noble_spr1_52
+    21300106: noble_spr1_53
+    21300108: noble_spr1_54
+    21300110: noble_spr1_55
+    21300112: noble_spr1_56
+    21300114: noble_spr1_57
+    21300116: noble_spr1_58
+    21300118: noble_spr1_59
+    21300120: noble_spr1_60
+    21300122: noble_spr1_61
+    21300124: noble_spr1_62
+    21300126: noble_spr1_63
+    21300128: noble_spr1_64
+    21300130: noble_spr1_65
+    21300132: noble_spr1_66
+    21300134: noble_spr1_67
+    21300136: noble_spr1_68
+    21300138: noble_spr1_69
+    21300140: noble_spr1_70
+    21300142: noble_spr1_71
+    21300144: noble_spr1_72
+    21300146: noble_spr1_73
+    21300148: noble_spr1_74
+    21300150: noble_spr1_75
+    21300152: noble_spr1_76
+    21300154: noble_spr1_77
+    21300156: noble_spr1_78
+    21300158: noble_spr1_79
+    21300160: noble_spr1_80
+    21300162: noble_spr1_81
+    21300164: noble_spr1_82
+    21300166: noble_spr1_83
+    21300168: noble_spr1_84
+    21300170: noble_spr1_85
+    21300172: noble_spr1_86
+    21300174: noble_spr1_87
+    21300176: noble_spr1_88
+    21300178: noble_spr1_89
+    21300180: noble_spr1_90
+    21300182: noble_spr1_91
+    21300184: noble_spr1_92
+    21300186: noble_spr1_93
+    21300188: noble_spr1_94
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 35
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: noble_spr1_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 249
+        width: 16
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 249
+        width: 20
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 250
+        width: 21
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 249
+        width: 19
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 250
+        width: 21
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 251
+        width: 25
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 250
+        width: 21
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 249
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 209
+        width: 19
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 209
+        width: 18
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 209
+        width: 21
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 210
+        width: 25
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 209
+        width: 22
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 209
+        width: 17
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 209
+        width: 20
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 232
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_16
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 216
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 169
+        width: 22
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 194
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_19
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 195
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 193
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 193
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 193
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 191
+        width: 7
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 193
+        width: 10
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 193
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_26
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 194
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 173
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 167
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_29
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 170
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_30
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 166
+        width: 7
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_31
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 169
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 166
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_33
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 169
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_34
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 169
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_35
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 169
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 26
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 148
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 146
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_39
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 148
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_40
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 147
+        width: 14
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_41
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 146
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_42
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 144
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_43
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 146
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_44
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 145
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_45
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 144
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 26
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_47
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 121
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_48
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 112
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 130
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 115
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_51
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 116
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_52
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 105
+        width: 31
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_53
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 107
+        width: 31
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_54
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_55
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 106
+        width: 19
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_56
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 97
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 76
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_58
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 92
+        width: 21
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_59
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 90
+        width: 18
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_60
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 91
+        width: 21
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_61
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 72
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_62
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 89
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_63
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 89
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_64
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 84
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_65
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 76
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_66
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_67
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 76
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_68
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 73
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_69
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 75
+        width: 19
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_70
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 61
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 44
+        width: 25
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_72
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 60
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_73
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 60
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_74
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 60
+        width: 20
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_75
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 57
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_76
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 41
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_77
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 40
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_78
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 43
+        width: 19
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_79
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 43
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_80
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 43
+        width: 18
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_81
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 44
+        width: 19
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_82
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 40
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_83
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 17
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_84
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 18
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_85
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 16
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_86
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 48
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 32}
+        - {x: -24, y: 0}
+        - {x: 24, y: 0}
+        - {x: 24, y: 32}
+    - name: noble_spr1_87
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 20
+        width: 21
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_88
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 19
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_89
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 25
+        width: 14
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_90
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 26
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_91
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_92
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 4
+        width: 20
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_93
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 12
+        width: 19
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: noble_spr1_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

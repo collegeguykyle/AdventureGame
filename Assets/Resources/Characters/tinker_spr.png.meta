@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: 74f022c57079227458cc463132e7637f
+timeCreated: 1459922603
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tinker_spr_0
+    21300002: tinker_spr_1
+    21300004: tinker_spr_2
+    21300006: tinker_spr_3
+    21300008: tinker_spr_4
+    21300010: tinker_spr_5
+    21300012: tinker_spr_6
+    21300014: tinker_spr_7
+    21300016: tinker_spr_8
+    21300018: tinker_spr_9
+    21300020: tinker_spr_10
+    21300022: tinker_spr_11
+    21300024: tinker_spr_12
+    21300026: tinker_spr_13
+    21300028: tinker_spr_14
+    21300030: tinker_spr_15
+    21300032: tinker_spr_16
+    21300034: tinker_spr_17
+    21300036: tinker_spr_18
+    21300038: tinker_spr_19
+    21300040: tinker_spr_20
+    21300042: tinker_spr_21
+    21300044: tinker_spr_22
+    21300046: tinker_spr_23
+    21300048: tinker_spr_24
+    21300050: tinker_spr_25
+    21300052: tinker_spr_26
+    21300054: tinker_spr_27
+    21300056: tinker_spr_28
+    21300058: tinker_spr_29
+    21300060: tinker_spr_30
+    21300062: tinker_spr_31
+    21300064: tinker_spr_32
+    21300066: tinker_spr_33
+    21300068: tinker_spr_34
+    21300070: tinker_spr_35
+    21300072: tinker_spr_36
+    21300074: tinker_spr_37
+    21300076: tinker_spr_38
+    21300078: tinker_spr_39
+    21300080: tinker_spr_40
+    21300082: tinker_spr_41
+    21300084: tinker_spr_42
+    21300086: tinker_spr_43
+    21300088: tinker_spr_44
+    21300090: tinker_spr_45
+    21300092: tinker_spr_46
+    21300094: tinker_spr_47
+    21300096: tinker_spr_48
+    21300098: tinker_spr_49
+    21300100: tinker_spr_50
+    21300102: tinker_spr_51
+    21300104: tinker_spr_52
+    21300106: tinker_spr_53
+    21300108: tinker_spr_54
+    21300110: tinker_spr_55
+    21300112: tinker_spr_56
+    21300114: tinker_spr_57
+    21300116: tinker_spr_58
+    21300118: tinker_spr_59
+    21300120: tinker_spr_60
+    21300122: tinker_spr_61
+    21300124: tinker_spr_62
+    21300126: tinker_spr_63
+    21300128: tinker_spr_64
+    21300130: tinker_spr_65
+    21300132: tinker_spr_66
+    21300134: tinker_spr_67
+    21300136: tinker_spr_68
+    21300138: tinker_spr_69
+    21300140: tinker_spr_70
+    21300142: tinker_spr_71
+    21300144: tinker_spr_72
+    21300146: tinker_spr_73
+    21300148: tinker_spr_74
+    21300150: tinker_spr_75
+    21300152: tinker_spr_76
+    21300154: tinker_spr_77
+    21300156: tinker_spr_78
+    21300158: tinker_spr_79
+    21300160: tinker_spr_80
+    21300162: tinker_spr_81
+    21300164: tinker_spr_82
+    21300166: tinker_spr_83
+    21300168: tinker_spr_84
+    21300170: tinker_spr_85
+    21300172: tinker_spr_86
+    21300174: tinker_spr_87
+    21300176: tinker_spr_88
+    21300178: tinker_spr_89
+    21300180: tinker_spr_90
+    21300182: tinker_spr_91
+    21300184: tinker_spr_92
+    21300186: tinker_spr_93
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 35
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tinker_spr_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 253
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 253
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 254
+        width: 21
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 254
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 254
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 255
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 255
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 268
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 252
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 213
+        width: 17
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 213
+        width: 17
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 214
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 217
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 216
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 214
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 214
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 236
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_17
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 218
+        width: 7
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 175
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_19
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 194
+        width: 4
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 194
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 196
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 195
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 197
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_24
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 195
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 194
+        width: 10
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 195
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_27
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 195
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_28
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 173
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 171
+        width: 10
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_30
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 176
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 171
+        width: 7
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 173
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 171
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_34
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 172
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 172
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_36
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 173
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 144
+        width: 26
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_38
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 150
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 149
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_40
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 151
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 151
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 145
+        width: 9
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_43
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 146
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_44
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 148
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 150
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_46
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 145
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 26
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_48
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 124
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_49
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 116
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_50
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 133
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_51
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 118
+        width: 15
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_52
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 119
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_53
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 109
+        width: 30
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_54
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 111
+        width: 28
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_55
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 124
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_56
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 109
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_57
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 100
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 76
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_59
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 94
+        width: 21
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_60
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 93
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 94
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 76
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_63
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 93
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_64
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 93
+        width: 22
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_65
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 89
+        width: 18
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_66
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 78
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_67
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 78
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_68
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 78
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_69
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 77
+        width: 13
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_70
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 77
+        width: 21
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_71
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 44
+        width: 23
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_72
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 61
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_73
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 61
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_74
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 62
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_75
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 62
+        width: 18
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_76
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 45
+        width: 20
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_77
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 44
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_78
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 65
+        width: 17
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_79
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 46
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_80
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 46
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_81
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 45
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_82
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 46
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_83
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 44
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_84
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 21
+        width: 15
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_85
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 15
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_86
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 22
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_87
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 22
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_88
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 22
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_89
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 30
+        width: 14
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_90
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 29
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_91
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 6
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_92
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 5
+        width: 13
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tinker_spr_93
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 13
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

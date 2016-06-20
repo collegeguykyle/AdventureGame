@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: 34e327c709f4e374a98e7848e728ae8b
+timeCreated: 1459922581
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: scout_spr_0
+    21300002: scout_spr_1
+    21300004: scout_spr_2
+    21300006: scout_spr_3
+    21300008: scout_spr_4
+    21300010: scout_spr_5
+    21300012: scout_spr_6
+    21300014: scout_spr_7
+    21300016: scout_spr_8
+    21300018: scout_spr_9
+    21300020: scout_spr_10
+    21300022: scout_spr_11
+    21300024: scout_spr_12
+    21300026: scout_spr_13
+    21300028: scout_spr_14
+    21300030: scout_spr_15
+    21300032: scout_spr_16
+    21300034: scout_spr_17
+    21300036: scout_spr_18
+    21300038: scout_spr_19
+    21300040: scout_spr_20
+    21300042: scout_spr_21
+    21300044: scout_spr_22
+    21300046: scout_spr_23
+    21300048: scout_spr_24
+    21300050: scout_spr_25
+    21300052: scout_spr_26
+    21300054: scout_spr_27
+    21300056: scout_spr_28
+    21300058: scout_spr_29
+    21300060: scout_spr_30
+    21300062: scout_spr_31
+    21300064: scout_spr_32
+    21300066: scout_spr_33
+    21300068: scout_spr_34
+    21300070: scout_spr_35
+    21300072: scout_spr_36
+    21300074: scout_spr_37
+    21300076: scout_spr_38
+    21300078: scout_spr_39
+    21300080: scout_spr_40
+    21300082: scout_spr_41
+    21300084: scout_spr_42
+    21300086: scout_spr_43
+    21300088: scout_spr_44
+    21300090: scout_spr_45
+    21300092: scout_spr_46
+    21300094: scout_spr_47
+    21300096: scout_spr_48
+    21300098: scout_spr_49
+    21300100: scout_spr_50
+    21300102: scout_spr_51
+    21300104: scout_spr_52
+    21300106: scout_spr_53
+    21300108: scout_spr_54
+    21300110: scout_spr_55
+    21300112: scout_spr_56
+    21300114: scout_spr_57
+    21300116: scout_spr_58
+    21300118: scout_spr_59
+    21300120: scout_spr_60
+    21300122: scout_spr_61
+    21300124: scout_spr_62
+    21300126: scout_spr_63
+    21300128: scout_spr_64
+    21300130: scout_spr_65
+    21300132: scout_spr_66
+    21300134: scout_spr_67
+    21300136: scout_spr_68
+    21300138: scout_spr_69
+    21300140: scout_spr_70
+    21300142: scout_spr_71
+    21300144: scout_spr_72
+    21300146: scout_spr_73
+    21300148: scout_spr_74
+    21300150: scout_spr_75
+    21300152: scout_spr_76
+    21300154: scout_spr_77
+    21300156: scout_spr_78
+    21300158: scout_spr_79
+    21300160: scout_spr_80
+    21300162: scout_spr_81
+    21300164: scout_spr_82
+    21300166: scout_spr_83
+    21300168: scout_spr_84
+    21300170: scout_spr_85
+    21300172: scout_spr_86
+    21300174: scout_spr_87
+    21300176: scout_spr_88
+    21300178: scout_spr_89
+    21300180: scout_spr_90
+    21300182: scout_spr_91
+    21300184: scout_spr_92
+    21300186: scout_spr_93
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 35
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: scout_spr_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 254
+        width: 16
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 253
+        width: 18
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 254
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 255
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 255
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 256
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 256
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 268
+        width: 15
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 254
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 214
+        width: 15
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 214
+        width: 17
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 215
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 218
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 217
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 215
+        width: 14
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 215
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 236
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 220
+        width: 6
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 176
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 195
+        width: 5
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 195
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 197
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 195
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 198
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 195
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 196
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 195
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 197
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 173
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_29
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 171
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 176
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 171
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 173
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 172
+        width: 7
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_34
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 173
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_35
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 172
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_36
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 174
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_37
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 144
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 150
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_39
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 151
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_40
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 150
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 150
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_42
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 145
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_43
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 145
+        width: 7
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_44
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 149
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_45
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 150
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_46
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 145
+        width: 7
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 112
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_48
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 124
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_49
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 116
+        width: 26
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_50
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 133
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_51
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 118
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_52
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 120
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_53
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 111
+        width: 34
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 110
+        width: 30
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_55
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 124
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_56
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 109
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_57
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 101
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_58
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 80
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_59
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 94
+        width: 19
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_60
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 94
+        width: 18
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_61
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 93
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_62
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 76
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_63
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 93
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_64
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 93
+        width: 22
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 89
+        width: 21
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_66
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 78
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_67
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 78
+        width: 18
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_68
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 78
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_69
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 77
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_70
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 76
+        width: 22
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_71
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 47
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_72
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 62
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_73
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 62
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_74
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 62
+        width: 15
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_75
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 62
+        width: 18
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_76
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 45
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_77
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 44
+        width: 20
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_78
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 64
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_79
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 46
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_80
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 46
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_81
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 46
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_82
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 46
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_83
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 44
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_84
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 24
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_85
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 23
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_86
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 22
+        width: 15
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_87
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 23
+        width: 13
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_88
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 31
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_89
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 32
+        width: 9
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_90
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 21
+        width: 14
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_91
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 14
+        width: 17
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_92
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 6
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: scout_spr_93
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 5
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
